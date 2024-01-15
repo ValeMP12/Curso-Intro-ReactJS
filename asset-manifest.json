@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Curso-Intro-ReactJS/static/css/main.2dbaa4cc.css",
-    "main.js": "/Curso-Intro-ReactJS/static/js/main.b85fdf1f.js",
+    "main.js": "/Curso-Intro-ReactJS/static/js/main.f7cf1f0d.js",
     "index.html": "/Curso-Intro-ReactJS/index.html",
     "static/media/delete.svg": "/Curso-Intro-ReactJS/static/media/delete.67697f56fd2f149bc9515a879062ad5c.svg",
     "static/media/check.svg": "/Curso-Intro-ReactJS/static/media/check.23109d14544b9bb9b3d5d4e65ea13701.svg",
     "main.2dbaa4cc.css.map": "/Curso-Intro-ReactJS/static/css/main.2dbaa4cc.css.map",
-    "main.b85fdf1f.js.map": "/Curso-Intro-ReactJS/static/js/main.b85fdf1f.js.map"
+    "main.f7cf1f0d.js.map": "/Curso-Intro-ReactJS/static/js/main.f7cf1f0d.js.map"
   },
   "entrypoints": [
     "static/css/main.2dbaa4cc.css",
-    "static/js/main.b85fdf1f.js"
+    "static/js/main.f7cf1f0d.js"
   ]
 }
